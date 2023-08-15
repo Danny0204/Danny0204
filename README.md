@@ -4,23 +4,14 @@
 <p align="left"> <a href="https://twitter.com/@danny890204" target="blank"><img src="https://img.shields.io/twitter/follow/@danny890204?logo=twitter&style=for-the-badge" alt="@danny890204" /></a> </p>
 
 - 🔭 I’m currently working on **.**
-
 - 🌱 I’m currently learning **.**
-
 - 👯 I’m looking to collaborate on **.**
-
 - 🤝 I’m looking for help with **.**
-
 - 👨‍💻 All of my projects are available at [.](.)
-
 - 📝 I regularly write articles on [.](.)
-
 - 💬 Ask me about **.**
-
 - 📫 How to reach me **.**
-
 - 📄 Know about my experiences [.](.)
-
 - ⚡ Fun fact **.**
 
 <h3 align="left">Connect with me:</h3>
