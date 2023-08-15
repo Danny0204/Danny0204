@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Danny (CLS) or Call me りょうさん</h1>
+<h1 align="center">Hi there 👋, I'm Danny (CLS) or りょうさん</h1>
 <h3 align="center">A Electrical Engineering Student with a Passion for Technology from Taiwan</h3>
 
 <p align="left"> <a href="https://twitter.com/@danny890204" target="blank"><img src="https://img.shields.io/twitter/follow/@danny890204?logo=twitter&style=for-the-badge" alt="@danny890204" /></a> </p>
