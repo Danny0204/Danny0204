@@ -2,7 +2,7 @@
 <h3 align="left">A Electrical Engineering Student with a Passion for Technology from Taiwan</h3>
 
 Welcome to my intro page!
-I'm Danny,an Electrical Engineering student who's enthusiastic about technology. Explore my journey of learning and innovation with me!
+I'm Danny,an Electrical Engineering student who's enthusiastic about technology.---Explore my journey of learning and innovation with me!
 
 
 
