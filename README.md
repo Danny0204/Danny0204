@@ -19,7 +19,7 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 - 🤝 I’m looking for help with **optimizing neural network architectures.**
 - 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/Danny0204?tab=projects)
 - 💬 Ask me about **any questions related to deep learning and computer vision**
-- 📫 How to reach me **via email at your@email.com or through my LinkedIn profile**
+- 📫 How to reach me **via email at 7111064097@smail.nchu.edu.tw or through my LinkedIn profile**
 - 📄 Know about my experiences [by visiting my LinkedIn profile]()
 - ⚡ Fun fact **I'm an avid music and gaming enthusiast, and I've also explored drawing and animation in my free time.**
 
