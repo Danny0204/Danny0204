@@ -66,7 +66,9 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 <p align="left"> 
 <p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">My GitHub statistics.</p>
 <p align="left"> 
-> My GitHub statistics
+
+  
+#### My GitHub statistics
 > 数据结构
 >> 树
 >>> 二叉树
