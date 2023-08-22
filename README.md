@@ -64,7 +64,7 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 
 <h2 align="left">My Stats</h2>
 <p align="left"> 
-<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">&nbsp;&nbsp;My GitHub statistics.</p>
+<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">My GitHub statistics.</p>
 <p align="left"> 
 
 
