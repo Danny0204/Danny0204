@@ -69,6 +69,13 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 <p align="left"> 
 
 
+<div style="display: flex; align-items: center;">
+  <div style="border-left: 5px solid #ffcc00; padding-left: 10px;"></div>
+  <p style="margin: 0;">My GitHub statistics.</p>
+</div>
+
+
+
 
 
 <p align="right">
