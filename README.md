@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Danny CLS or りょうさん</h1>
 
-<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">Personal Introduction.
+<p style="display:inline; border-left: 5px solid #ffcc00; padding-left: 10px;">Personal Introduction.
 </p>
 
 
@@ -43,7 +43,7 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 <!-- annotation -->
 
 <h2 align="left">Languages and Tools</h2>
-<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">Tools, languages, and other things that I like to work with.
+<p style="display:inline; border-left: 5px solid #ffcc00; padding-left: 10px;">Tools, languages, and other things that I like to work with.
 </p>
 <p align="left"> 
 
@@ -65,7 +65,7 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 <h2 align="left">My Stats</h2>
 <p align="left"> 
 
-<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">My GitHub statistics.
+<p style="display:inline; border-left: 5px solid #ffcc00; padding-left: 10px;">My GitHub statistics.
 </p>
 <p align="left"> 
 
