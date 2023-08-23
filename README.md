@@ -1,8 +1,6 @@
-<h1 align="left">Hi there 👋, I'm Danny CLS or りょうさん</h1>
+<h1 align="center">Hi, I'm Danny CLS , 私は りょうさん です</h1>
 
-<p style="display:inline; border-left: 5px solid #ffcc00; padding-left: 10px;">Personal Introduction.
-</p>
-
+> Personal Introduction.
 
 <h3 align="left">A Electrical Engineering Student with a Passion for Technology from Taiwan</h3>
 
@@ -26,12 +24,10 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 <br>
 
 
-<h2 align="left">Feel free to connect</h2>
-<p align="left">
+<h2 align="left">Feel free to connect me</h2>
 
-<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">Social media platforms include the following.
-</p>
-<p align="left"> 
+> Social media platforms include the following.
+
 
 <a href="https://twitter.com/@danny890204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@danny890204" height="25" width="40" /></a>
 <a href="https://linkedin.com/in/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="25" width="40" /></a>
@@ -43,9 +39,9 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 <!-- annotation -->
 
 <h2 align="left">Languages and Tools</h2>
-<p style="display:inline; border-left: 5px solid #ffcc00; padding-left: 10px;">Tools, languages, and other things that I like to work with.
-</p>
-<p align="left"> 
+
+> Tools, languages, and other things that I like to work with.
+
 
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> 
@@ -63,9 +59,8 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 </p>
 
 <h2 align="left">My Stats</h2>
-<p align="left"> 
-<p style="display:inline; border-left: 5px solid #a3a3a3; padding-left: 10px;">My GitHub statistics.</p>
-<p align="left"> 
+
+> My GitHub statistics.
 
   
 #### My GitHub statistics
@@ -88,10 +83,11 @@ I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=danny0204&show_icons=true&locale=en" alt="danny0204" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danny0204&show_icons=true&locale=en" alt="danny0204" width="47.5%" />
 
 <div style="width: 100px;">
+
 </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danny0204&" alt="danny0204" width="52.8%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danny0204&" alt="danny0204" width="50%" />
 </div>
