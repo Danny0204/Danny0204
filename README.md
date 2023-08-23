@@ -2,13 +2,6 @@
 
 > Personal Introduction.
 
-<h3 align="left">A Electrical Engineering Student with a Passion for Technology from Taiwan</h3>
-
-Welcome to my intro page!
-<p align="left">
-I'm Danny,an Electrical Engineering student who's enthusiastic about technology.
-<p align="left">Explore my journey of learning and innovation with me!
-
 <br>
 
 - 🔭 I’m currently working on **Machine Learning**
