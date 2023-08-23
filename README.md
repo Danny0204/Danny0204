@@ -1,14 +1,23 @@
 <h1 align="center">👋 Hi, I'm Danny CLS , 私は りょうさん です</h1>
 
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0MXZybGdtMmRkajZvdHh4eXRwcDV5MTNrYzdpb2ZpbTh6Z3dzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kdpcTe9awm64QHTuH/giphy.gif" alt="Alt Text">
+</div> -->
+
+ width="894" height="298
+
   <div align="center">
 <img src="https://media.giphy.com/media/sldVOSBgIt9iXEtCcg/giphy.gif" align="center" width="894" height="298">
   </div>
 
 <br>
+
 <h1 align="center">🎉 Welcome to my GitHub profile !!</h1>
+
 
 > Personal Introduction.
 
+### IM
 <br>
 
   <div align="center">
@@ -21,14 +30,13 @@
 - 🤝 I’m looking for help with **optimizing neural network architectures.**
 - 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/Danny0204?tab=projects)
 - 💬 Ask me about **any questions related to deep learning and computer vision.**
-- 📫 You can reach me **via email at 7111064097@smail.nchu.edu.tw or on social media.**
+- 📫 How to reach me **via email at 7111064097@smail.nchu.edu.tw or through my social media.**
 - 📄 Know about my experiences by [visiting my LinkedIn profile]() 
 - 💖 Fun fact **I love music, gaming, and exploring drawing and animation in my free time.**
 
 <br>
 
-
-<h2 align="center">Feel free to connect me</h2>
+<h2 align="center">💬 Feel free to connect me</h2>
 
 > Social media platforms include the following.
 
@@ -44,7 +52,7 @@
 
 <!-- annotation -->
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">🧰 Languages and Tools</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -64,7 +72,7 @@
 
 </p>
 
-<h2 align="center">My Stats</h2>
+<h2 align="center">📊 My Stats</h2>
 
 > My GitHub statistics.
 
