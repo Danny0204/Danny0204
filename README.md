@@ -1,17 +1,11 @@
 <h1 align="center">Hi, I'm Danny CLS , 私は りょうさん です</h1>
 
   <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0MXZybGdtMmRkajZvdHh4eXRwcDV5MTNrYzdpb2ZpbTh6Z3dzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kdpcTe9awm64QHTuH/giphy-downsized.gif" align="center" width="500">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0MXZybGdtMmRkajZvdHh4eXRwcDV5MTNrYzdpb2ZpbTh6Z3dzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kdpcTe9awm64QHTuH/giphy-downsized.gif" align="center" width="894" height="298">
   </div>
 
 <br>
-<h1 align="center">Welcome to my GitHub profile</h1>
-
-
-
-
-
-
+<h1 align="center">Welcome to my GitHub profile!!</h1>
 
 > Personal Introduction.
 
