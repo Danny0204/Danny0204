@@ -15,7 +15,6 @@
 
 > Personal Introduction.
 
-### IM
 <br>
 
   <div align="center">
