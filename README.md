@@ -55,18 +55,9 @@
 
 > My GitHub statistics.
 
-  
-#### My GitHub statistics
-> 数据结构
->> 树
->>> 二叉树
->>>> 平衡二叉树
->>>>> 满二叉树
-
-
-
+<p align="center">
 ![Alt Text](https://media0.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif?cid=ecf05e47fzdwoc306gkqgu1maaql411kq5eurmic7aqy96ve&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danny0204&show_icons=true&locale=en&layout=compact" alt="danny0204" />
