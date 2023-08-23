@@ -16,8 +16,8 @@
 - 🕵️‍♂️ I’m looking to collaborate on **open-source projects related to ai.**
 - 🤝 I’m looking for help with **optimizing neural network architectures.**
 - 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/Danny0204?tab=projects)
-- 💬 Ask me about **any questions related to deep learning and computer vision**
-- 📫 How to reach me **via email at 7111064097@smail.nchu.edu.tw or through my social media**
+- 💬 Ask me about **any questions related to deep learning and computer vision.**
+- 📫 You can reach me **via email at 7111064097@smail.nchu.edu.tw or on social media.**
 - 📄 Know about my experiences by [visiting my LinkedIn profile]() 
 - 💖 Fun fact **I love music, gaming, and exploring drawing and animation in my free time.**
 
