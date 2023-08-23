@@ -22,15 +22,15 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0MXZybGdtMmRkajZvdHh4eXRwcDV5MTNrYzdpb2ZpbTh6Z3dzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kdpcTe9awm64QHTuH/giphy-downsized.gif" align="right" width="230" height="215">
   </div>
 
-- 🛠️ I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **Verilog Coding & EDA tool**
+- 🛠️ I’m currently working on **Machine Learning**.
+- 🌱 I’m currently learning **Verilog Coding & EDA tool**.
 - 🕵️‍♂️ I’m looking to collaborate on **open-source projects related to ai.**
-- 🤝 I’m looking for help with **optimizing neural network architectures.**
-- 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/Danny0204?tab=projects)
-- 💬 Ask me about **any questions related to deep learning and computer vision.**
-- 📫 How to reach me **via email at 7111064097@smail.nchu.edu.tw or through my social media**
-- 📄 Know about my experiences by [visiting my LinkedIn profile]() 
-- 💖 Fun fact **I love music, gaming, and exploring drawing and animation in my free time.**
+- 🤝 I’m looking for help with **optimizing neural network architectures**.
+- 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/Danny0204?tab=projects).
+- 💬 Ask me about **any questions related to deep learning and computer vision**.
+- 📫 You can reach me **via email at 7111064097@smail.nchu.edu.tw or on social media**.
+- 📄 Know about my experiences by [visiting my LinkedIn profile]().
+- 💖 Fun fact **I love music, gaming, and exploring drawing and animation in my free time**.
 
 <br>
 
