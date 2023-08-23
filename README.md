@@ -12,7 +12,7 @@
 <br>
 
   <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0MXZybGdtMmRkajZvdHh4eXRwcDV5MTNrYzdpb2ZpbTh6Z3dzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kdpcTe9awm64QHTuH/giphy-downsized.gif" align="right" width="250" height="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0MXZybGdtMmRkajZvdHh4eXRwcDV5MTNrYzdpb2ZpbTh6Z3dzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kdpcTe9awm64QHTuH/giphy-downsized.gif" align="right" width="230" height="200">
   </div>
 
 - 🛠️ I’m currently working on **Machine Learning**
