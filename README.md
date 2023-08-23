@@ -56,7 +56,7 @@
 > My GitHub statistics.
 
 <p align="center">
-![Alt Text](https://media0.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif?cid=ecf05e47fzdwoc306gkqgu1maaql411kq5eurmic7aqy96ve&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  <![Alt Text](https://media0.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif?cid=ecf05e47fzdwoc306gkqgu1maaql411kq5eurmic7aqy96ve&ep=v1_gifs_search&rid=giphy.gif&ct=g)/>
 </p>
 
 <p align="left">
