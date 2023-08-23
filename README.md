@@ -24,7 +24,7 @@
 
 - 🛠️ I’m currently working on **Machine Learning**.
 - 🌱 I’m currently learning **Verilog Coding & EDA tool**.
-- 🕵️‍♂️ I’m looking to collaborate on **open-source projects related to ai.**
+- 🕵️‍♂️ I’m looking to collaborate on **open-source projects related to ai**.
 - 🤝 I’m looking for help with **optimizing neural network architectures**.
 - 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/Danny0204?tab=projects).
 - 💬 Ask me about **any questions related to deep learning and computer vision**.
